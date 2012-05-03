@@ -8,4 +8,5 @@
 ;;; the output from rdefs command.
 
 ;;(setq ruby-mode-map (make-sparse-keymap))
+(defvar ruby-mode-map (make-sparse-keymap))
 (define-key ruby-mode-map "\ee" 'ruby-defs)
