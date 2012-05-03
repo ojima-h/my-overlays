@@ -5,6 +5,7 @@
 EAPI=4
 
 inherit elisp
+inherit git-2
 
 DESCRIPTION="Function for rdefs"
 HOMEPAGE="http://github.com/ojima-h/"
