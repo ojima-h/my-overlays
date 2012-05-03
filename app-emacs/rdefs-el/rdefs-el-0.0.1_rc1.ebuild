@@ -8,7 +8,7 @@ inherit elisp
 
 DESCRIPTION="Function for rdefs"
 HOMEPAGE="http://github.com/ojima-h/"
-SRC_URI="https://raw.github.com/gist/2582518/5e51e3a7e968743d3495eb928cca376b0aa48787/rdefs.el"
+SRC_URI="https://github.com/ojima-h/rdefs-el.git"
 
 LICENSE="GPL-2"
 SLOT="0"
