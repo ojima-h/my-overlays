@@ -1,0 +1,10 @@
+# ChangeLog for app-emacs/rdefs-el
+# Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+*rdefs-el-0.0.1_rc1 (03 May 2012)
+
+  03 May 2012; <ojima.h@gentoo.org> +files/50rdefs-el-gentoo.el,
+  +rdefs-el-0.0.1_rc1.ebuild:
+  minor mode for rdefs
+
