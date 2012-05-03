@@ -8,6 +8,6 @@
     <owner type="project">
       <email>ojima.h@gmail.com</email>
     </owner>
-    <source type="git">git://github.com/ojima-h/my-overlays.git</source>
+    <source type="git">https://github.com/ojima-h/my-overlays.git</source>
   </repo>
 </repositories>
