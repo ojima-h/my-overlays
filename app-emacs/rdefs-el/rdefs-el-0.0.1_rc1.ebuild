@@ -10,6 +10,7 @@ inherit git-2
 DESCRIPTION="Function for rdefs"
 HOMEPAGE="http://github.com/ojima-h/"
 SRC_URI="https://github.com/ojima-h/rdefs-el.git"
+EGIT_REPO_URI="${SRC_URI}"
 
 LICENSE="GPL-2"
 SLOT="0"
