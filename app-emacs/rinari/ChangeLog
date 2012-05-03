@@ -1,0 +1,12 @@
+# ChangeLog for app-emacs/rinari
+# Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+*rinari_rc1 (03 May 2012)
+
+  03 May 2012; <ojima.h@gentoo.org> +files/50rinari-gentoo.el,
+  +rinari_rc1.ebuild:
+  Rinari
+
+  Majour mode for rails development.
+
