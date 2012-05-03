@@ -1,2 +1,4 @@
 (add-to-list 'load-path "@SITELISP@")
-(require 'rdefs)
+(autoload 'ruby-defs "rdefs-el")
+;(autoload 'rdefs-mode "rdefs-el"
+;            "Minor mode for ruby defs" t)
