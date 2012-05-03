@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[my-overlays]]></name>
+    <description><![CDATA[Provide Overlay for myself.]]></description>
+    <homepage>http://ojima-h.github.com/my-overlays/</homepage>
+    <owner type="project">
+      <email>ojima.h@gmail.com</email>
+    </owner>
+    <source type="git">git://github.com/ojima-h/my-overlays.git</source>
+  </repo>
+</repositories>
